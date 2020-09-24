@@ -36,7 +36,7 @@ input — параметры сырья \
 output — параметры продукта \
 state — параметры, характеризующие текущее состояние этапа \
 calculation — расчётные характеристики \
-![СХЕМА]
+![]
 (https://drive.google.com/file/d/1UIPpQ99yVLBcyxkxIpVCtnLz7oXVhmIM/view?usp=sharing)
 
 # Используемые библиотеки:
