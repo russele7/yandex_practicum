@@ -36,8 +36,7 @@ input — параметры сырья \
 output — параметры продукта \
 state — параметры, характеризующие текущее состояние этапа \
 calculation — расчётные характеристики \
-![]
-(https://drive.google.com/file/d/1UIPpQ99yVLBcyxkxIpVCtnLz7oXVhmIM/view?usp=sharing)
+[СХЕМА ПРОЦЕССА](https://drive.google.com/file/d/1UIPpQ99yVLBcyxkxIpVCtnLz7oXVhmIM/view?usp=sharing)
 
 # Используемые библиотеки:
 pandas, numpy, matplotlib, seaborn, sklearn, LightGBM, Catboost
