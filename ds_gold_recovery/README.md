@@ -10,7 +10,7 @@
 Проанализированы различные ML-модели и различные способы предобработки данных.\
 Лучшая модель - SVR с метрикой SMAPE_total = 9.29
 
-# Стэк:
+# Стек:
 pandas, numpy, matplotlib, seaborn, sklearn, LightGBM, Catboost
 
 # Статус:
