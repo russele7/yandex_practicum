@@ -7,6 +7,7 @@
 
 # Результат
 Лучшие результаты для 2 целевых признаков показали модели Catboost и SVR.
+Целевая метрика SMAPE_total составила 9.29
 
 # Стек:
 pandas, numpy, matplotlib, seaborn, sklearn, LightGBM, Catboost
