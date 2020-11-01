@@ -3,12 +3,9 @@
 Проекты выполнены в ходе обучения на платформе **Яндекс.Практикум** по программам:
 - ["Аналитик данных"](https://praktikum.yandex.ru/data-analyst/)
 - ["Специалист по Data Science"](https://praktikum.yandex.ru/data-scientist/)
-
 | Название проекта | Описание | Используемые библиотеки|
 | :-------------------- | :------------------------------------------------------------------- |:-----------------------:|
-
 | [Прогнозирование температуры стали. Металлургическая отрасль](https://github.com/russele7/yandex_practicum/tree/master/ds_foundry) | Разработка модели, предсказывающей температуру выплавляемой стали по данным тех. процесса  | pandas, numpy, matplotlib, seaborn, sklearn, lasso, ridge, Catboost |
-
 | [Прогнозирование доли золота в руде. Золотодобывающая отрасль](https://github.com/russele7/yandex_practicum/tree/master/ds_gold_recovery) | Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды  | pandas, numpy, matplotlib, seaborn, sklearn, LightGBM, Catboost |
 | [Прогнозирование заказов такси](https://github.com/russele7/yandex_practicum/tree/master/ds_taxi_time_series)| Обучить модель для предсказания количества заказов такси на следующий час. | pandas, numpy, matplotlib, seaborn, sklearn, LightGBM, Catboost |  
 | [Предсказание цен автомобилей](https://github.com/russele7/yandex_practicum/tree/master/ds_cars_price) | Обучить модель для определения рыночной стоимости автомобиля   | plotly, pandas, numpy, matplotlib, seaborn, sklearn, XGB, LightGBM, Catboost |
